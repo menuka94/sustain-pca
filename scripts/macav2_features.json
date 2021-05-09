@@ -1,0 +1,18 @@
+[
+  "min_specific_humidity",
+  "max_specific_humidity",
+  "min_precipitation",
+  "max_precipitation",
+  "min_surface_downwelling_shortwave_flux_in_air",
+  "max_surface_downwelling_shortwave_flux_in_air",
+  "min_max_air_temperature",
+  "max_max_air_temperature",
+  "min_min_air_temperature",
+  "max_min_air_temperature",
+  "min_eastward_wind",
+  "max_eastward_wind",
+  "min_northward_wind",
+  "max_northward_wind",
+  "min_vpd",
+  "max_vpd"
+]
